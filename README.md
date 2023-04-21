@@ -1,5 +1,4 @@
 # countDownArmy
 
-
-*[https://jspachecob.github.io/countDownArmy/](#Echale un vistaso!!)
-
+*echale un vistazo* 
+ [Ver](https://pages.github.com/)
