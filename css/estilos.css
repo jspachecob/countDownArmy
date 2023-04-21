@@ -78,10 +78,11 @@ p {
     gap: 10px;
 }
 
-#cuentaRegresivaHobi {
+.contadorContenedor{
     display: flex;
     gap: 10px;
 }
+
 
 
 .simply-section {
